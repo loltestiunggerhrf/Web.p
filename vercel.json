@@ -10,10 +10,6 @@
     {
       "src": "/validate_key",
       "dest": "/server.py"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/server.py"
     }
   ]
 }
